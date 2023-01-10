@@ -1,2 +1,3 @@
-# Content-based-recommender
-Yuhuuuuuu......In this project I analyze anime data based on a couple metrics such as score, genre and type. I then visualize anime based on differences in genre, and measure significance of variance across rating means and total episode counts. Lastly, I end with a content-based recommender that takes into account an anime's genres, episode counts, score, and the number of members that left a review. The model works to compare these features through cosine similarity.
+# Sistem Rekomendasi
+
+Halo...pada proyek ini saya menganalisa data anime-anime berdasarkan beberapa metriks seperti skor, genre dan tipe. Kemudian saya memvisualisasikan data tersebut ke dalam genre dan melihat seberapa signifikan pengaruh total episode terhadap skor. Terakhir, saya membuat sistem rekomendasi anime sederhana berdasarkan genre, total episode, skor, dan total orang yang meninggalkan ulasan, sistem rekomendasi ini akan menggunakan model Cosine Similarity.
